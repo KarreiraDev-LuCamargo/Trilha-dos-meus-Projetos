@@ -1,7 +1,7 @@
-# Projeto-Trilha
+# Trilha-dos-meus-projetos
 "Trilha interativa de projetos Frontend (HTML, CSS e JS) com barra de progresso, modo dark/light e salvamento no navegador para acompanhar a evolução dos estudos."
 
-# 📌 Trilha de Projetos Frontend (HTML + CSS + JS)
+# 📌 Trilha-dos-meus-projetos Frontend (HTML + CSS + JS)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
